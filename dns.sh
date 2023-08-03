@@ -6,7 +6,7 @@ then
 # INTERAÇÃO COM USUARIO E A FORMA DE UTILIZAR A FERRAMENTA
 	echo "====================================================================="
 	echo "	USE DESSA FORMA: ./$0 xbox.com -w <WORDLISTS>		   "
-	echo "	EXEMPLO /$0 xbox.com -w /lista/teste_wordlists.txt         "
+	echo "	EXEMPLO /$0 xbox.com -w /lista2/teste_wordlists.txt         "
 	echo "ESSA FERRAMENTA É UM BRUTE FORCE DE DNS, IRÁ PROCURAR POR SUBDOMINIOS"
 	echo "ATENÇÃO! SE QUISER USAR OUTRAS WORDLISTS COLOQUEM ELAS NA PASTA LISTA"
 	echo "====================================================================="
